@@ -52,8 +52,6 @@ Upload a video of your trick or training run — RedWings analyzes your joint an
 <!-- 📸 Screenshot of the history panel slide-out with a few sessions listed -->
 <!-- <img alt="Session History" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" /> -->
 
-> **To add screenshots:** Run the app, take screenshots of each screen, then drag them into any GitHub issue or PR comment box. GitHub will host the image and give you a URL — paste it into the `src` above.
-
 ---
 
 ## How It Works
