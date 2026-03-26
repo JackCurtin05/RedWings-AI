@@ -30,18 +30,25 @@ Upload a video of your trick or training run — RedWings analyzes your joint an
 ## Screenshots
 
 ### Athlete Profile
+<img width="2305" height="1966" alt="image" src="https://github.com/user-attachments/assets/6be352b9-6fbd-4f54-bdbf-5106130b31b8" />
+
 <!-- 📸 Screenshot of the profile form (step 1 of the app) -->
 <!-- <img alt="Athlete Profile" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" /> -->
 
 ### Video Upload
+<img width="1747" height="1678" alt="image" src="https://github.com/user-attachments/assets/7210f740-147c-48f4-9460-3629f51844d5" />
+
 <!-- 📸 Screenshot of the drag-and-drop upload screen with a video loaded and previewing -->
 <!-- <img alt="Video Upload" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" /> -->
 
 ### Biomechanical Analysis
+<img width="2031" height="2020" alt="image" src="https://github.com/user-attachments/assets/a8553007-2b25-47ee-bdbc-a456c8fdbe03" />
 <!-- 📸 Screenshot of the full results page — metrics grid, sparklines, coaching feedback -->
 <!-- <img alt="Analysis Results" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" /> -->
 
 ### Session History
+<img width="860" height="777" alt="image" src="https://github.com/user-attachments/assets/83ce583a-82a1-42c4-8739-18812877b4fb" />
+
 <!-- 📸 Screenshot of the history panel slide-out with a few sessions listed -->
 <!-- <img alt="Session History" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" /> -->
 
