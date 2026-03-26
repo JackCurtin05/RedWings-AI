@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap');
+
+.font-display   { font-family: 'Bebas Neue', sans-serif; }
+.font-condensed { font-family: 'Barlow Condensed', sans-serif; }
+.font-body      { font-family: 'Barlow', sans-serif; }
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #060D18;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  /* removed place-items:center so pages aren't vertically centered */
+}
+
+h1 { font-size: 3.2em; line-height: 1.1; }
+
+a {
+  font-weight: 500;
+  color: #E8112D;
+  text-decoration: inherit;
+}
+a:hover { color: #c50e26; }
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover { border-color: #E8112D; }
+button:focus,
+button:focus-visible { outline: 4px auto -webkit-focus-ring-color; }
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 2px;
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  background: #E8112D;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(232,17,45,0.5);
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #060D18; }
+::-webkit-scrollbar-thumb { background: #E8112D; border-radius: 2px; }
